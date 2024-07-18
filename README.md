@@ -3,4 +3,4 @@
 # Домашнее задание к занятию "5.Работа с HTML-формами."
 ## Задание 1 "Popover".
 
-Сайт: [https://zavyalovandrei.github.io/popover-site/]
+Сайт: [https://zavyalovandrei.github.io/PopoverSite/]
